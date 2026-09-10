@@ -84,10 +84,19 @@ Esta cuarta semana se centró en asentar la cultura de la seguridad digital, con
 
 <br>
 
+# Semana 05: Gestión de Trámites Online
+
+Esta quinta semana estuvo enfocada en capacitar a los alumnos en el uso de la administración electrónica en España, la identidad digital segura y las buenas prácticas en entornos financieros virtuales.
+
+### 🏛️ Contenidos Impartidos
+
+* **Transformación Digital:** Impacto y cambios conceptuales en la gestión administrativa contemporánea.
+* **Sedes Electrónicas:** Características de las plataformas de administración pública e inspección práctica de las principales sedes electrónicas activas en España.
+* **Identificación Digital:** Métodos de autenticación de identidad en la red, con especial foco en el funcionamiento, utilidad y proceso de registro del sistema **Cl@ve**.
+* **Banca Electrónica Segura:** Análisis de los procesos de autenticación bancaria actuales y compendio de recomendaciones críticas para evitar fraudes financieros.
 
 
-
-
+<br>
 
 
 
