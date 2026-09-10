@@ -48,9 +48,9 @@ En esta segunda semana nos enfocamos en expandir el conocimiento sobre sistemas 
 * **Sistemas Operativos:** Análisis comparativo de los entornos más utilizados en el ámbito doméstico y profesional, evaluando sus características y recomendaciones de uso.
 * **Gestión de la Información:** Técnicas de búsqueda y tratamiento de datos, con especial énfasis en la detección de *fake news*.
 * **Creación de Contenido Digital:** Introducción a los límites legales, derechos de autor y principios éticos al publicar o reutilizar materiales de terceros.
-* **Ciberseguridad y Privacidad:** Principios de protección de la identidad digital, riesgos en redes sociales y prevención de ataques por suplantación de identidad (*phishing*).
+* **Ciberseguridad y Privacidad:** Principios de protección de la identidad digital, riesgos en redes sociales y prevención de ataques por suplantación de identidad (*Sexting,Grooming,Stalking,Sextorsion,Phishing...*).
 * **Administración Avanzada (Windows):** Prácticas y procesos avanzados para la gestión y optimización del sistema operativo de Microsoft.
-
+* **Comunicaciones digitales:** Manejo del correo electrónico y google calendar.
 
 
 
