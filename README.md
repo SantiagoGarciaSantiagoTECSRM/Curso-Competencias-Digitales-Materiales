@@ -49,7 +49,7 @@ En esta segunda semana nos enfocamos en expandir el conocimiento sobre sistemas 
 * **Gestión de la Información:** Técnicas de búsqueda y tratamiento de datos, con especial énfasis en la detección de *fake news*.
 * **Creación de Contenido Digital:** Introducción a los límites legales, derechos de autor y principios éticos al publicar o reutilizar materiales de terceros.
 * **Ciberseguridad y Privacidad:** Principios de protección de la identidad digital, riesgos en redes sociales y prevención de ataques por suplantación de identidad (*phishing*).
-* **Administración Avanzada (Windows):** Prácticas y procesos avanzados pa
+* **Administración Avanzada (Windows):** Prácticas y procesos avanzados para la gestión y optimización del sistema operativo de Microsoft.
 
 
 
