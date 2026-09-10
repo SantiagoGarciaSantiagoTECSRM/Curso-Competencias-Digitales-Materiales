@@ -23,6 +23,10 @@ Atendiendo a los requerimientos de la empresa contratante (formato de charlas t�
 
 <hr>
 
+# Semana 01: Administración de Sistemas, Ofimática y Aplicaciones de Gestión
+
+Esta primera semana estuvo enfocada en asentar las bases del uso del sistema informático y en la introducción a las herramientas de oficina de código abierto (GNU).
+
 
 ### 🖥️ Contenidos Impartidos
 
