@@ -24,6 +24,24 @@ Atendiendo a los requerimientos de la empresa contratante (formato de charlas t�
 <hr>
 
 
+### 🖥️ Contenidos Impartidos
+
+* **Administración de Sistemas:** Manejo básico del sistema operativo Windows e identificación y resolución de pequeñas incidencias técnicas.
+* **Procesadores de Texto (GNU):** Introducción a la edición de textos sencillos. Se analizaron los puntos en común y las diferencias clave entre los editores más utilizados en el ámbito doméstico y empresarial.
+* **Hojas de Cálculo (GNU):** Introducción teórica a la herramienta. *Nota: Debido a la planificación, las prácticas extensas de este bloque se pospusieron para la semana de libre asignación.*
+* **Presentaciones Eficientes (GNU):** Metodologías de trabajo y buenas prácticas para el diseño de diapositivas eficaces.
+
+
+<br>
+
+
+
+
+
+
+
+
+
 
 
 
