@@ -53,7 +53,18 @@ En esta segunda semana nos enfocamos en expandir el conocimiento sobre sistemas 
 * **Comunicaciones digitales:** Manejo del correo electrónico y google calendar.
 
 
+<br>
 
+# Semana 03: Seguridad y Privacidad en Línea
+
+Esta tercera semana estuvo dedicada por completo a la ciberseguridad defensiva, dotando a los alumnos de los conocimientos necesarios para proteger sus comunicaciones, dispositivos e identidad digital.
+
+### 🛡️ Contenidos Impartidos
+
+* **Comunicaciones Seguras:** Principios fundamentales e identificación de amenazas y riesgos reales en la red.
+* **Seguridad en el Hogar:** Buenas prácticas para la creación de contraseñas robustas y configuración segura de routers o puertas de enlace.
+* **Protección de Dispositivos:** Medidas de seguridad y bastionado para navegadores web en equipos de escritorio y dispositivos móviles.
+* **Derechos Digitales:** Introducción al marco de protección de la privacidad y los derechos de los usuarios en internet.
 
 
 
