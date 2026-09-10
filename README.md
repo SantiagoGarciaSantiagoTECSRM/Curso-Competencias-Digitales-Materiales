@@ -39,7 +39,17 @@ Esta primera semana estuvo enfocada en asentar las bases del uso del sistema inf
 <br>
 
 
+# Semana 02: Administración de Sistemas, Ofimática y Aplicaciones de Gestión
 
+En esta segunda semana nos enfocamos en expandir el conocimiento sobre sistemas operativos, profundizar en la seguridad digital y analizar la gestión ética y crítica de la información en la red.
+
+### 🖥️ Contenidos Impartidos
+
+* **Sistemas Operativos:** Análisis comparativo de los entornos más utilizados en el ámbito doméstico y profesional, evaluando sus características y recomendaciones de uso.
+* **Gestión de la Información:** Técnicas de búsqueda y tratamiento de datos, con especial énfasis en la detección de *fake news*.
+* **Creación de Contenido Digital:** Introducción a los límites legales, derechos de autor y principios éticos al publicar o reutilizar materiales de terceros.
+* **Ciberseguridad y Privacidad:** Principios de protección de la identidad digital, riesgos en redes sociales y prevención de ataques por suplantación de identidad (*phishing*).
+* **Administración Avanzada (Windows):** Prácticas y procesos avanzados pa
 
 
 
