@@ -67,6 +67,23 @@ Esta tercera semana estuvo dedicada por completo a la ciberseguridad defensiva, 
 * **Derechos Digitales:** Introducción al marco de protección de la privacidad y los derechos de los usuarios en internet.
 
 
+<br>
+
+# Semana 04: Ciberseguridad para Principiantes
+
+Esta cuarta semana se centró en asentar la cultura de la seguridad digital, concienciando sobre el valor de la información y dotando al alumnado de herramientas de protección proactiva.
+
+### 🔒 Contenidos Impartidos
+
+* **Fundamentos de Ciberseguridad:** Definición del concepto, organismos reguladores y objetivos clave de protección.
+* **Información Sensible:** Análisis de la privacidad de los datos, importancia de su resguardo y su escala jurídica.
+* **Amenazas y Vulnerabilidades:** Tipos de ataques informáticos, perfiles de atacantes, gestión del riesgo y el *Triángulo de la Seguridad* en las comunicaciones.
+* **Ciberhigiene:** Concepto e integración de rutinas de seguridad en el día a día digital.
+* **Herramientas y Hábitos:** Soluciones tecnológicas básicas de defensa y resumen práctico de conductas para una navegación segura.
+
+
+<br>
+
 
 
 
