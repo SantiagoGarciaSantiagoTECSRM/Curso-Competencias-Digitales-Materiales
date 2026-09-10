@@ -98,8 +98,25 @@ Esta quinta semana estuvo enfocada en capacitar a los alumnos en el uso de la ad
 
 <br>
 
+# Semana 05 (Bloque II): Resiliencia Digital
+
+Debido al ajuste de calendario por los días festivos, esta semana se extendió para incluir un bloque especializado en resiliencia y adaptabilidad en el entorno digital, cerrando el ciclo teórico del curso.
+
+### 🔄 Contenidos Impartidos
+
+* **Fundamentos de la Resiliencia Digital:** Definición del concepto, componentes clave, beneficios y desafíos en el contexto actual.
+* **Gestión de Amenazas:** Repaso de las amenazas digitales vigentes y metodologías para su gestión y adaptación al cambio tecnológico.
+* **¿Ciberseguridad o Ciberresiliencia?:** Debate conceptual y adopción de prácticas proactivas de ciberresiliencia.
+* **Resiliencia Emocional Online:** Estrategias psicológicas y conductuales para afrontar el estrés y los entornos complejos en línea.
+* **Casos Prácticos:** Recopilación de conceptos clave y resolución colaborativa (en grupo) de supuestos teóricos.
+
+---
+
+### 📝 Cierre del Curso: Prácticas Ofimáticas Consolidadas
+Tras completar el temario teórico de la quinta semana, el tiempo restante del curso se dedicó íntegramente a un **taller intensivo de ejercicios prácticos de ofimática** (procesadores de texto, hojas de cálculo y presentaciones) para consolidar de forma transversal todas las competencias técnicas adquiridas.
 
 
+<br>
 
 
 
