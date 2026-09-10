@@ -21,31 +21,16 @@ Atendiendo a los requerimientos de la empresa contratante (formato de charlas t�
 
 
 
-
-
-
-
-
-
-
-
-
-
 <hr>
 
 
-**¿A qué periodo temporal corresponden?**
-
-El curso corresponde al periodo académico 2021-2023, y el temario formativo es el de las Illes Balears.
-
-**¿Estos apuntes se pueden imprimir?**
-
-Sí, aunque en principio estos apuntes no fueron creados ni para ser impresos, ni redistribuidos. Es por ello que poseen un índice dinámico, pero no contrastes ni márgenes adaptados a la impresión.
-
-**¿Cómo puedo hacer uso de los índices dinámicos?**
-
-Descargando el archivo y abriéndolo en su sistema.
 
 
-# Curso-Competencias-Digitales-Materiales
- Recursos que desarrollé y utilicé como formador durante la impartición del mismo.
+
+
+
+
+
+
+
+
