@@ -45,7 +45,7 @@ Esta primera semana estuvo enfocada en asentar las bases del uso del sistema inf
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Semana_01_didactica </a>  &emsp;  &emsp;  &emsp; &emsp; &emsp; <a href="">Semana_01_refuerzo_01</a> &emsp;  &emsp;  &emsp; &emsp; &emsp;
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/main/01OFIDIG_02_2026%5BRepositorio%5D.pdf">Semana_01_didactica </a>  &emsp;  &emsp;  &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/main/01%5Bmats%5DOFIDIG_02_2026%5BRepositorio%5D.pdf">Semana_01_refuerzo_01</a> &emsp;  &emsp;  &emsp; &emsp; &emsp;
  
   </tr>
   
