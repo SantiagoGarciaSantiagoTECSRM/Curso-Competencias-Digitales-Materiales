@@ -45,7 +45,7 @@ Esta primera semana estuvo enfocada en asentar las bases del uso del sistema inf
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-del-segundo-a%C3%B1o-de-SRM/%5B02%5Dapuntes_CURSO_AW_IDX.pdf">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
  
   </tr>
   
