@@ -246,7 +246,7 @@ Tras completar el temario teórico de la quinta semana, el tiempo restante del c
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Refuerzo_ofimática_01</a>   &emsp; &emsp; &emsp;  <a href="">Refuerzo_ofimática_02</a> &emsp; &emsp; &emsp;  <a href="">Refuerzo_ofimática_03</a> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  <a href="">Refuerzo_ofimática_04</a> &emsp; &emsp; &emsp; <a href="">Refuerzo_ofimática_05</a> &emsp; &emsp; &emsp; <a href="">Refuerzo_ofimática_06</a> &emsp; &emsp; &emsp;<br> <a href="">Refuerzo_ofimática_mats_01</a> &emsp; &emsp; &emsp; <a href="">Refuerzo_ofimática_mats_02</a> &emsp; &emsp; &emsp; <a href="">Refuerzo_ofimática_mats_03</a> &emsp; &emsp; &emsp;
+     <a href="">Refuerzo_ofimática_01</a>   &emsp; &emsp; &emsp;  <a href="">Refuerzo_ofimática_02</a> &emsp; &emsp; &emsp;  <a href="">Refuerzo_ofimática_03</a> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  <a href="">Refuerzo_ofimática_04</a> &emsp; &emsp; &emsp; <a href="">Refuerzo_ofimática_05</a> &emsp; &emsp; &emsp; <a href="">Refuerzo_ofimática_06</a> &emsp; &emsp; &emsp;<br> <br><a href="">Refuerzo_ofimática_mats_01</a> &emsp; &emsp; &emsp; <a href="">Refuerzo_ofimática_mats_02</a> &emsp; &emsp; &emsp; <a href="">Refuerzo_ofimática_mats_03</a> &emsp; &emsp; &emsp;
  
   </tr>
   
