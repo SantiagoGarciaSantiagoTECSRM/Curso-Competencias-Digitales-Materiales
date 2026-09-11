@@ -151,7 +151,7 @@ Esta cuarta semana se centró en asentar la cultura de la seguridad digital, con
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+       <a href="">Semana_04_didactica </a>&emsp; &emsp; &emsp;  <a href="">Semana_04_refuerzo_01</a> &emsp; &emsp; &emsp;  <a href="">Semana_04_refuerzo_02</a> &emsp; &emsp; &emsp;&emsp; 
  
   </tr>
   
