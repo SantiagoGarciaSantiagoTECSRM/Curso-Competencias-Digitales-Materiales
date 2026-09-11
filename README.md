@@ -115,7 +115,7 @@ Esta tercera semana estuvo dedicada por completo a la ciberseguridad defensiva, 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Semana_03_didactica </a>&emsp; &emsp; &emsp;  <a href="">Semana_03_refuerzo_01</a> &emsp; &emsp; &emsp;  <a href="">Semana_03_refuerzo_02</a> &emsp; &emsp; &emsp;&emsp; 
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_03_comp_digitales/Seguridad%20y%20privacidad%20en%20linea_03.pdf">Semana_03_didactica </a>&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_03_comp_digitales/%5Bmats%5DSeguridad%20y%20privacidad%20en%20linea_03.pdf">Semana_03_refuerzo_01</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_03_comp_digitales/guia_ransomware.pdf">Semana_03_refuerzo_02</a> &emsp; &emsp; &emsp;&emsp; 
  
   </tr>
   
