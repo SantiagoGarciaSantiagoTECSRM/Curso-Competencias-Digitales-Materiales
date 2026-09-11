@@ -151,7 +151,7 @@ Esta cuarta semana se centró en asentar la cultura de la seguridad digital, con
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-       <a href="">Semana_04_didactica </a>&emsp; &emsp; &emsp;  <a href="">Semana_04_refuerzo_01</a> &emsp; &emsp; &emsp;  <a href="">Semana_04_refuerzo_02</a> &emsp; &emsp; &emsp;&emsp; 
+       <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_04_comp_digitales/Ciberseguridad_mod_04.pdf">Semana_04_didactica </a>&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_04_comp_digitales/ejercicios_voluntarios_word_basicos.pdf">Semana_04_refuerzo_01</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_04_comp_digitales/%5Bmats%5DCiberseguridad_mod_04.pdf">Semana_04_refuerzo_02</a> &emsp; &emsp; &emsp;&emsp; 
  
   </tr>
   
