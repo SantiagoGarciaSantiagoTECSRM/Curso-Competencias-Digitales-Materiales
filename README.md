@@ -219,7 +219,7 @@ Debido al ajuste de calendario por los días festivos, esta semana se extendió 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+     <a href="">Semana_06_didactica </a>  
  
   </tr>
   
