@@ -75,6 +75,25 @@ En esta segunda semana nos enfocamos en expandir el conocimiento sobre sistemas 
 
 <br>
 
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;Competencias digitales - Semana 02 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+ 
+  </tr>
+  
+</table>
+
+<br>
+
+<hr>
+
+<br>
+
 # Semana 03: Seguridad y Privacidad en Línea
 
 Esta tercera semana estuvo dedicada por completo a la ciberseguridad defensiva, dotando a los alumnos de los conocimientos necesarios para proteger sus comunicaciones, dispositivos e identidad digital.
@@ -92,7 +111,7 @@ Esta tercera semana estuvo dedicada por completo a la ciberseguridad defensiva, 
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;Competencias digitales - Semana 02 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;Competencias digitales - Semana 03 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
@@ -125,6 +144,25 @@ Esta cuarta semana se centró en asentar la cultura de la seguridad digital, con
 
 <br>
 
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;Competencias digitales - Semana 04 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+ 
+  </tr>
+  
+</table>
+
+<br>
+
+<hr>
+
+<br>
+
 # Semana 05: Gestión de Trámites Online
 
 Esta quinta semana estuvo enfocada en capacitar a los alumnos en el uso de la administración electrónica en España, la identidad digital segura y las buenas prácticas en entornos financieros virtuales.
@@ -136,6 +174,25 @@ Esta quinta semana estuvo enfocada en capacitar a los alumnos en el uso de la ad
 * **Identificación Digital:** Métodos de autenticación de identidad en la red, con especial foco en el funcionamiento, utilidad y proceso de registro del sistema **Cl@ve**.
 * **Banca Electrónica Segura:** Análisis de los procesos de autenticación bancaria actuales y compendio de recomendaciones críticas para evitar fraudes financieros.
 
+
+<br>
+
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;Competencias digitales - Semana 05 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+ 
+  </tr>
+  
+</table>
+
+<br>
+
+<hr>
 
 <br>
 
@@ -153,9 +210,51 @@ Debido al ajuste de calendario por los días festivos, esta semana se extendió 
 
 ---
 
+<br>
+
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;Competencias digitales - Semana 5B &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+ 
+  </tr>
+  
+</table>
+
+<br>
+
+<hr>
+
+<br>
+
+
+
 ### 📝 Cierre del Curso: Prácticas Ofimáticas Consolidadas
 Tras completar el temario teórico de la quinta semana, el tiempo restante del curso se dedicó íntegramente a un **taller intensivo de ejercicios prácticos de ofimática** (procesadores de texto, hojas de cálculo y presentaciones) para consolidar de forma transversal todas las competencias técnicas adquiridas.
 
+
+<br>
+
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>                                                                                                                                                              
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;Competencias digitales - Extras 00 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+ 
+  </tr>
+  
+</table>
+
+<br>
+
+<hr>
 
 <br>
 
