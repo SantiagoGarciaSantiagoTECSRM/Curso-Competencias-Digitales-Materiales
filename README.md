@@ -184,7 +184,7 @@ Esta quinta semana estuvo enfocada en capacitar a los alumnos en el uso de la ad
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+     <a href="">Semana_05_didactica </a>&emsp; &emsp; &emsp;  <a href="">Semana_05_curs_excel</a> &emsp; &emsp; &emsp;  <a href="">Semana_05_mats_excel</a> &emsp; &emsp; &emsp;&emsp; <a href="">Semana_05_mats_excel_02</a> &emsp; &emsp; &emsp;&emsp; 
  
   </tr>
   
