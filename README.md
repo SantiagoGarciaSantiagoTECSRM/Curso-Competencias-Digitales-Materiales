@@ -39,6 +39,25 @@ Esta primera semana estuvo enfocada en asentar las bases del uso del sistema inf
 <br>
 
 
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;Desarrollo Aplicaciones WEB [AW] &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;   </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-del-segundo-a%C3%B1o-de-SRM/%5B02%5Dapuntes_CURSO_AW_IDX.pdf">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+ 
+  </tr>
+  
+</table>
+
+
+<br>
+
+
+
+
+
 # Semana 02: Administración de Sistemas, Ofimática y Aplicaciones de Gestión
 
 En esta segunda semana nos enfocamos en expandir el conocimiento sobre sistemas operativos, profundizar en la seguridad digital y analizar la gestión ética y crítica de la información en la red.
