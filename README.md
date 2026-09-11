@@ -82,7 +82,7 @@ En esta segunda semana nos enfocamos en expandir el conocimiento sobre sistemas 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Semana_02_didactica</a>   &emsp; &emsp; &emsp;  <a href="">Semana_02_presentacion</a> &emsp; &emsp; &emsp;  <a href="">Semana_02_refuerzo_01</a> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  <a href="">Semana_02_refuerzo_02</a> &emsp; &emsp; &emsp;
+     <a href="">Semana_02_didactica</a>   &emsp; &emsp; &emsp;  <a href="">Semana_02_presentación</a> &emsp; &emsp; &emsp;  <a href="">Semana_02_refuerzo_01</a> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  <a href="">Semana_02_refuerzo_02</a> &emsp; &emsp; &emsp;
  
   </tr>
   
@@ -115,7 +115,7 @@ Esta tercera semana estuvo dedicada por completo a la ciberseguridad defensiva, 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+     <a href="">Semana_03_didactica </a>&emsp; &emsp; &emsp;  <a href="">Semana_03_refuerzo_01</a> &emsp; &emsp; &emsp;  <a href="">Semana_03_refuerzo_02</a> &emsp; &emsp; &emsp;&emsp; 
  
   </tr>
   
