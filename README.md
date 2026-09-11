@@ -55,8 +55,9 @@ Esta primera semana estuvo enfocada en asentar las bases del uso del sistema inf
 <br>
 
 
+<hr>
 
-
+<br>
 
 # Semana 02: Administración de Sistemas, Ofimática y Aplicaciones de Gestión
 
@@ -87,6 +88,27 @@ Esta tercera semana estuvo dedicada por completo a la ciberseguridad defensiva, 
 
 
 <br>
+
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;Competencias digitales - Semana 02 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
+ 
+  </tr>
+  
+</table>
+
+<br>
+
+<hr>
+
+<br>
+
+
 
 # Semana 04: Ciberseguridad para Principiantes
 
