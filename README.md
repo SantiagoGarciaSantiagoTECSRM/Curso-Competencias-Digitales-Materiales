@@ -1,6 +1,6 @@
 
 >[!WARNING]
->#  En elaboración.   
+>#   
 ># Ultima revisión: 10-09-2026
  
 <br>
