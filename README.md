@@ -36,7 +36,7 @@ Esta tercera semana estuvo dedicada por completo a la ciberseguridad defensiva, 
 
 <hr>
 
- &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|Indice|</a>
+ &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|📂Indice|</a>
 
 
 <hr>
