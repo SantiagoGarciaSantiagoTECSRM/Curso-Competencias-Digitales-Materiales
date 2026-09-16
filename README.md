@@ -39,7 +39,7 @@ Esta primera semana estuvo enfocada en asentar las bases del uso del sistema inf
 
 
 <hr>
- &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|Indice|</a>
+ &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|📂Indice|</a>
 <hr>
 
 <br>
