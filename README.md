@@ -39,7 +39,7 @@ En esta segunda semana nos enfocamos en expandir el conocimiento sobre sistemas 
 
 <hr>
 
- &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|Indice|</a>
+ &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|📂Indice|</a>
 
 <hr>
 
