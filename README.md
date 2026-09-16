@@ -36,7 +36,7 @@ Esta quinta semana estuvo enfocada en capacitar a los alumnos en el uso de la ad
 
 <hr>
 
- &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|Indice|</a>
+ &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|📂Indice|</a>
 
 <hr>
 
