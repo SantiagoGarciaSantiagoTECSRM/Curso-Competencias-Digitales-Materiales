@@ -45,7 +45,7 @@ Esta primera semana estuvo enfocada en asentar las bases del uso del sistema inf
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_01_comp_digitales/01OFIDIG_02_2026%5BRepositorio%5D.pdf">Semana_01_didactica </a>  &emsp;  &emsp;  &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_01_comp_digitales/01%5Bmats%5DOFIDIG_02_2026%5BRepositorio%5D.pdf">Semana_01_refuerzo_01</a> &emsp;  &emsp;  &emsp; &emsp; &emsp;
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_01_comp_digitales/01OFIDIG_02_2026%5BRepositorio%5D.pdf">Semana_01_didactica,pdf </a>  &emsp;  &emsp;  &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_01_comp_digitales/01%5Bmats%5DOFIDIG_02_2026%5BRepositorio%5D.pdf">Semana_01_refuerzo_01.pdf</a> &emsp;  &emsp;  &emsp; &emsp; &emsp;
  
   </tr>
   
@@ -82,7 +82,7 @@ En esta segunda semana nos enfocamos en expandir el conocimiento sobre sistemas 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_02_comp_digitales/Competencias_digitales_modulo_02.pdf">Semana_02_didactica</a>   &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_02_comp_digitales/busqueda_infor.odp">Semana_02_presentación</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_02_comp_digitales/%5Bmats%5DDidacticas_refuerzo_mod_01_02.pdf">Semana_02_refuerzo_01</a> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_02_comp_digitales/%5Bmats%5DDidacticas_refuerzo_mod_02_medios.pdf">Semana_02_refuerzo_02</a> &emsp; &emsp; &emsp;
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_02_comp_digitales/Competencias_digitales_modulo_02.pdf">Semana_02_didactica.pdf</a>   &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_02_comp_digitales/busqueda_infor.odp">Semana_02_presentación.odp</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_02_comp_digitales/%5Bmats%5DDidacticas_refuerzo_mod_01_02.pdf">Semana_02_refuerzo_01.pdf</a> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_02_comp_digitales/%5Bmats%5DDidacticas_refuerzo_mod_02_medios.pdf">Semana_02_refuerzo_02.pdf</a> &emsp; &emsp; &emsp;
  
   </tr>
   
@@ -115,7 +115,7 @@ Esta tercera semana estuvo dedicada por completo a la ciberseguridad defensiva, 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_03_comp_digitales/Seguridad%20y%20privacidad%20en%20linea_03.pdf">Semana_03_didactica </a>&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_03_comp_digitales/%5Bmats%5DSeguridad%20y%20privacidad%20en%20linea_03.pdf">Semana_03_refuerzo_01</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_03_comp_digitales/guia_ransomware.pdf">Semana_03_refuerzo_02</a> &emsp; &emsp; &emsp;&emsp; 
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_03_comp_digitales/Seguridad%20y%20privacidad%20en%20linea_03.pdf">Semana_03_didactica.pdf </a>&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_03_comp_digitales/%5Bmats%5DSeguridad%20y%20privacidad%20en%20linea_03.pdf">Semana_03_refuerzo_01.pdf</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_03_comp_digitales/guia_ransomware.pdf">Semana_03_refuerzo_02.pdf</a> &emsp; &emsp; &emsp;&emsp; 
  
   </tr>
   
@@ -151,7 +151,7 @@ Esta cuarta semana se centró en asentar la cultura de la seguridad digital, con
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-       <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_04_comp_digitales/Ciberseguridad_mod_04.pdf">Semana_04_didactica </a>&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_04_comp_digitales/ejercicios_voluntarios_word_basicos.pdf">Semana_04_refuerzo_01</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_04_comp_digitales/%5Bmats%5DCiberseguridad_mod_04.pdf">Semana_04_refuerzo_02</a> &emsp; &emsp; &emsp;&emsp; 
+       <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_04_comp_digitales/Ciberseguridad_mod_04.pdf">Semana_04_didactica.pdf </a>&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_04_comp_digitales/ejercicios_voluntarios_word_basicos.pdf">Semana_04_refuerzo_01.pdf</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_04_comp_digitales/%5Bmats%5DCiberseguridad_mod_04.pdf">Semana_04_refuerzo_02.pdf</a> &emsp; &emsp; &emsp;&emsp; 
  
   </tr>
   
@@ -184,7 +184,7 @@ Esta quinta semana estuvo enfocada en capacitar a los alumnos en el uso de la ad
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_05_comp_digitales/Gestion_tramites_online_05.pdf">Semana_05_didactica </a>&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_05_comp_digitales/%5Bmats%5DExcel_basicos.pdf">Semana_05_curs_excel</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_05_comp_digitales/mats_excel_01.7z">Semana_05_mats_excel</a> &emsp; &emsp; &emsp;&emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_05_comp_digitales/mats_excel_02.7z">Semana_05_mats_excel_02</a>&emsp; &emsp; &emsp;&emsp; 
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_05_comp_digitales/Gestion_tramites_online_05.pdf">Semana_05_didactica.pdf </a>&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_05_comp_digitales/%5Bmats%5DExcel_basicos.pdf">Semana_05_curs_excel.pdf</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_05_comp_digitales/mats_excel_01.7z">Semana_05_mats_excel.7z</a> &emsp; &emsp; &emsp;&emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_05_comp_digitales/mats_excel_02.7z">Semana_05_mats_excel_02.7z</a>&emsp; &emsp; &emsp;&emsp; 
  
   </tr>
   
@@ -219,7 +219,7 @@ Debido al ajuste de calendario por los días festivos, esta semana se extendió 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_06_comp_digitales/Resilencia%20digital_06.pdf">Semana_06_didactica </a>  
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/semana_06_comp_digitales/Resilencia%20digital_06.pdf">Semana_06_didactica.pdf </a>  
  
   </tr>
   
@@ -246,7 +246,7 @@ Tras completar el temario teórico de la quinta semana, el tiempo restante del c
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_01.pdf">Refuerzo_ofimática_01</a>   &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_02.pdf">Refuerzo_ofimática_02</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_03.pdf">Refuerzo_ofimática_03</a> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_04.pdf">Refuerzo_ofimática_04</a> &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_05.pdf">Refuerzo_ofimática_05</a> &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_06.pdf">Refuerzo_ofimática_06</a> &emsp; &emsp; &emsp;<br> <br><a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/materiales_ejercicio_06.7z">Refuerzo_ofimática_mats_01</a> &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/mats_ejercicios_complementarios.7z">Refuerzo_ofimática_mats_02</a> &emsp; &emsp; &emsp;
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_01.pdf">Refuerzo_ofimática_01.pdf</a>   &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_02.pdf">Refuerzo_ofimática_02.pdf</a> &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_03.pdf">Refuerzo_ofimática_03.pdf</a> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_04.pdf">Refuerzo_ofimática_04.pdf</a> &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_05.pdf">Refuerzo_ofimática_05.pdf</a> &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/%5Bext%5DDidacticas_refuerzo_06.pdf">Refuerzo_ofimática_06.pdf</a> &emsp; &emsp; &emsp;<br> <br><a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/materiales_ejercicio_06.7z">Refuerzo_ofimática_mats_01.7z</a> &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales/blob/practicas_off_comp_digitales/mats_ejercicios_complementarios.7z">Refuerzo_ofimática_mats_02.7z</a> &emsp; &emsp; &emsp;
  
   </tr>
   
