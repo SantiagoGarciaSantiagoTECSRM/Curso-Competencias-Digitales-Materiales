@@ -42,7 +42,7 @@ Esta cuarta semana se centró en asentar la cultura de la seguridad digital, con
 
 <hr>
 
- &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|Indice|</a>
+ &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Curso-Competencias-Digitales-Materiales">|📂Indice|</a>
 
 
 <hr>
